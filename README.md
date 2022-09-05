@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limonpro&label=Profile%20views&color=0e75b6&style=flat" alt="limonpro" /> </p>
 
-- 🔭 I’m currently working on **QLIQ**
+- 🔭 I’m currently working on **Spacecats**
 
 - 🌱 I’m currently learning **next js**
 
