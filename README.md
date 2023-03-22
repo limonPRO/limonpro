@@ -9,7 +9,7 @@
 
 -
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **node js express js nest js react js next js mongodb**
 
 - 👨‍💻 All of my projects are available at [https://myprotfolio-limon.netlify.app/](https://myprotfolio-limon.netlify.app/)
 
