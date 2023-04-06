@@ -1,35 +1,150 @@
-<h1 align="center">Hi 👋, I'm Limon Shah </h1>
-<h3 align="center">A passionate software developer from Bangladesh</h3>
-
-<h3 align="left">Education :</h3>
-<p align="left">B.Sc in Software Engineering <h4 align="left">Daffodil International University<h4> </p> 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=limonpro&label=Profile%20views&color=0e75b6&style=flat" alt="limonpro" /> </p>
-
--
-
-- 🌱 I’m currently learning **node js express js nest js react js next js mongodb**
-
-- 👨‍💻 All of my projects are available at [https://myprotfolio-limon.netlify.app/](https://myprotfolio-limon.netlify.app/)
-
-- 💬 Ask me about **javascript**
-
-- 📫 How to reach me **imlimonpro@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/11LDk-f_SPNNVEifArLn41xpLN9Hu9yhj_jdQLyxTx1s/edit](https://docs.google.com/document/d/11LDk-f_SPNNVEifArLn41xpLN9Hu9yhj_jdQLyxTx1s/edit)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/md-limon-shah-797637159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-limon-shah-797637159" height="30" width="40" /></a>
-<a href="https://twitter.com/mdlimonshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdlimonshah" height="30" width="40" /></a>
-<a href="https://fb.com/limon.abc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="limon.abc1" height="30" width="40" /></a>
-<a href="https://instagram.com/i_m_limon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_limon" height="30" width="40" /></a>
+<body>
+  <div align="center">
+    <h1> Hi there, I'm Limon Shah👋<a href="#"></h1>
+  </div>
+<p align="center">
+  <a href="https://github.com/Hassaan0509"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Web+Developer;HTML%20|%20CSS%20|%20Bootstrap|%20Javascript;MongoDb|%20ExpressJs|%20ReactJs|%20Nodejs;Always%20learning%20new%20Technology&center=true&width=500&height=50" alt="Typing SVG"></a>
+  
 </p>
+<!-- <h1 align="center"> Connect with me: </h1>
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/e6e73b02-4663-4105-b49c-00184e168127"
+  target="blank">
+  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg"
+      alt="Hassaan0509" height="30" width="40" />
+</a>
+<a href="https://codepen.io/Hassaan0509" target="blank">
+  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg"
+      alt="Hassaan0509" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/hahmad2205/" target="blank">
+  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg"
+      alt="Hassaan0509" height="30" width="40" />
+</a>
+<a href="https://dev.to/hassaan0509" target="blank">
+  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
+      alt="Hassaan0509" height="30" width="40" />
+</a>
+<a href="https://twitter.com/Hassaan67377143" target="blank">
+  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
+      alt="Hassaan0509" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/hassaan-ahmad-155132221/" target="blank">
+  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+      alt="Hassaan0509" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/hassaan.ahmad.2205/" target="blank">
+  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+      alt="Hassaan0509" height="30" width="40" />
+</a>
+</p> -->
+    <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> </p>
+### I'm a Front-end Web Developer, Teach Enthuist and Student!
+- 🔭 I’m currently working as Front-end Web Developer @Apex Space.
+- 🌱 I’m currently expanding my knowledge in Back-end Web development.
+- 👯 I’m looking to collaborate with other content creators and developers.
+- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 💎 If you are a Tech boy/girl let's get connected  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limonpro&show_icons=true&locale=en&layout=compact" alt="limonpro" /></p>
+ 
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=limonpro&show_icons=true&locale=en" alt="limonpro" /></p>
+    
+<h2>Tech Stack</h2>
+
+<table width="100" align="center">
+<tr>
+	<td align='center' width="200">
+        	<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
+    	</td>
+	<td align='center' width="200">
+        <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" >
+    </td>
+	<td align='center' width="200">
+        	<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    	</td>
+	<td align='center' width="200">
+        	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png">
+    	</td>
+    
+</tr>
+ 
+<tr>
+	<td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
+    	</td>
+    	<td align='center'>
+        	<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+    	</td>	
+	<td align='center'>
+        	<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"  width="80">
+    	</td>
+	<td align='center' width="200">
+	        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
+    	</td>
+	
+   
+</tr>
+	
+<tr>
+ 	<td align='center'>
+        	<img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
+    	</td>
+    	<td align='center' width="200">
+        	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
+    	</td>
+	<td align='center'>
+        	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" width="80">
+    	</td>
+	<td align='center'>
+        	<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="80">
+    	</td>
+</tr>
+    
+</table>
+	  
+<p align="center">
+<a href="https://www.linkedin.com/in/hassaan-ahmad-155132221/"><img src="https://img.shields.io/badge/-Hassaan%20Ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hahmad2205@gmail.com"><img src="https://img.shields.io/badge/-hassaanahmad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/hassaan.ahmad.2205/"><img src="https://img.shields.io/badge/-@hassaanahmad-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/hahmad2205/"><img src="https://img.shields.io/badge/-/hassaanahmad-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+ </p>
+    
+<br>
+
+
+
+<h2>GitHub Analytics
+ </h2>
+
+<p align="center">
+<a href="https://github.com/saadfareed">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassaan0509&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hassaan0509&hide=html&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassaan0509&show_icons=true&locale=en&layout=demo&theme=algolia" />
+</p>
+</p>
+<br>
+	
+<!-- ## ⚡️Github Contributions
+[![Hassaan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hassaan0509&theme=xcode)](https://github.com/Hassaan0509)
+ -->
+
+<br/>
+<h2 align="center">🏆 GitHub Profile Trophy:</h2>
+<p align="center">
+<a href="https://github.com/Hassaan0509">
+  <img width=600 src="https://github-profile-trophy.vercel.app/?username=Hassaan0509&theme=discord"/>
+</a>
+</p>
+<hr>
+<h2 align>Spotify Playing 🎧</h2>
+    
+![Spotify](https://novatorem.vercel.app/api/spotify)
+    
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/hassaanahmad/count.svg" />
+</p>
