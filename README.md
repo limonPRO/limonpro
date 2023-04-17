@@ -7,12 +7,12 @@ A passionate Software Developer from Bangladesh 🚀 .
 
 - **Languages**: 
 javascript , python , C
-- **Back-end**
+- **Back-end**:
 node js , nest js , express js 
-- **Front-end**
+- **Front-end**:
 react js , next js
-- **Databases**  
+- **Databases** :
 mongodb , mysql , prisma
-- **Tools**
+- **Tools**:
 github , vs code 
 
