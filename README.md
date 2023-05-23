@@ -10,7 +10,7 @@ javascript , python , C
 - **Back-end**:
 node js , nest js , express js 
 - **Front-end**:
-react js , next js
+react js , next js , react native
 - **Databases** :
 mongodb , mysql , prisma
 - **Tools**:
